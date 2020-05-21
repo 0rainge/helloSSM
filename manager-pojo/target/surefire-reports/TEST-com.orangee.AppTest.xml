@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.orangee.AppTest" time="0.027" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/yucheguo/work/java/manager/manager-pojo/target/test-classes:/Users/yucheguo/work/java/manager/manager-pojo/target/classes:/Users/yucheguo/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/yucheguo/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib"/>
+    <property name="sun.java.command" value="/Users/yucheguo/work/java/manager/manager-pojo/target/surefire/surefirebooter7838615288260684475.jar /Users/yucheguo/work/java/manager/manager-pojo/target/surefire 2020-05-20T14-16-15_092-jvmRun1 surefire2951209517539439635tmp surefire_05383724088555752150tmp"/>
+    <property name="surefire.test.class.path" value="/Users/yucheguo/work/java/manager/manager-pojo/target/test-classes:/Users/yucheguo/work/java/manager/manager-pojo/target/classes:/Users/yucheguo/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/yucheguo/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/yucheguo"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre"/>
+    <property name="basedir" value="/Users/yucheguo/work/java/manager/manager-pojo"/>
+    <property name="file.separator" value="/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="idea.version2019.2.3" value="true"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/yucheguo/work/java/manager/manager-pojo/target/surefire/surefirebooter7838615288260684475.jar"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/classes"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_162-b01"/>
+    <property name="user.name" value="yucheguo"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.14.6"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/yucheguo/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azulsystems.com/support/"/>
+    <property name="java.io.tmpdir" value="/var/folders/3h/xlnpmb_s1p9d8vp11xg9rr6c39d2sm/T/"/>
+    <property name="java.version" value="1.8.0_162"/>
+    <property name="user.dir" value="/Users/yucheguo/work/java/manager/manager-pojo"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/yucheguo/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="25.162-b01"/>
+    <property name="java.ext.dirs" value="/Users/yucheguo/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/1.8.162_macosx.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.orangee.AppTest" time="0.002"/>
+</testsuite>
